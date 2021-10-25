@@ -96,9 +96,9 @@ Dengan melakukan hal tersebut, akan mengganti perubahan di direktori kerja denga
 
 Sebaliknya, jika semua perubahan/commit di-drop dan master branch lokal dibutuhkan untuk menunjukkan history terakhir dari server, jalankan perintah:
 
-**git fetch origin**
+>>**git fetch origin**
 
-**git reset --hard origin/master**
+>>**git reset --hard origin/master**
 
 
 

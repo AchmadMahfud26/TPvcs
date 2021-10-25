@@ -1,11 +1,11 @@
 # Tugas Pemrograman
 ## Membuat Akun Github dan repositori
-Langkah Pertama Download Git melalui link _git-scm.com_
+Langkah Pertama Download Git melalui link _https://git-scm.com/_
 [link](https://git-scm.com/)
 seperti pada gambar , pilihlah sesuai dengan OS yang digunakan.
 ![img](Sshot/ss1.png)
 
-### Melakukan istalasi git 
+### Melakukan instalasi git 
 setelah di download kemudian instal
 ikuti langkah langkahnya sampai __FINISH__
 
@@ -27,5 +27,8 @@ cheklist "Add a README file" kemudian klik "Create repository"
 ![img](Sshot/sscreate.png)
 Kemudian klik "Code" salin link repository seperti gambar berikut
 ![img](Sshot/sscode.png)
+
+### Buat Folder pada Windows
+Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.
 
 
